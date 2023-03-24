@@ -52,4 +52,7 @@ Hi, i am 海风. I have about 4 years of experience, i try to be aware of each u
 <ul>
 
 Discord:
-<a href="https://discord.com/channels/@me/1077774033271144518">   <img src="https://cdn.discordapp.com/attachments/946614010030202901/1088718404879392818/bnVrZXIub3JnLw.png" alt="contact mee">
+<a href="https://discord.gg/K5fPkak33s">   <img src="https://cdn.discordapp.com/attachments/946614010030202901/1088718404879392818/bnVrZXIub3JnLw.png" alt="contact mee">
+```
+Impre𐤉#1843
+````
