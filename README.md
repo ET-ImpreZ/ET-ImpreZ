@@ -29,7 +29,7 @@ Hi, i am 海风. I have about 4 years of experience, i try to be aware of each u
 <br><br>
 <img src="https://cdn.discordapp.com/attachments/946614010030202901/1088722855312764948/lineaazul.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b>
 <br>
 
 <p align="center">
@@ -39,10 +39,7 @@ Hi, i am 海风. I have about 4 years of experience, i try to be aware of each u
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- **Softwares**:
-    
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 <br>
 
@@ -55,4 +52,4 @@ Discord:
 <a href="https://discord.gg/K5fPkak33s">   <img src="https://cdn.discordapp.com/attachments/946614010030202901/1088718404879392818/bnVrZXIub3JnLw.png" alt="contact mee">
 ```
 Impre𐤉#1843
-````
+```
